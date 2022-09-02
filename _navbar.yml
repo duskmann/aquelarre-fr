@@ -1,0 +1,19 @@
+name: "Mywebsite"
+title: "My new website"
+type: inverse
+left:
+  - text: "About me"
+    menu:
+      - text: "Learn more about me"
+        href: ./aboutme.html
+  - text: "Project"
+    menu:
+       - text: "Brève introduction à l'Espagne du XIVe siècle"
+         href: ./histintro.html
+       - text: "Création des personnages"
+         href: ./charcreation.html
+  - text: "Contact"
+    href: ./contact.html
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/githubusername/mywebsite
