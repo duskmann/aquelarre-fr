@@ -1,16 +1,15 @@
 name: "Mywebsite"
-title: "My new website"
+title: "Aquelarre"
 type: inverse
 left:
-  - text: "About me"
-    menu:
-      - text: "Learn more about me"
-        href: ./aboutme.html
-  - text: "Project"
-    menu:
+  - text: "Brève présentation du jeu"
+    href: ./aboutme.html
+    menu: 
        - text: "Brève introduction à l'Espagne du XIVe siècle"
          href: ./histintro.html
-       - text: "Création des personnages"
+  - text: "Création des personnages"
+    menu:
+       - text: "Etape 1 - D'où venez-vous ? "
          href: ./charcreation.html
   - text: "Contact"
     href: ./contact.html
