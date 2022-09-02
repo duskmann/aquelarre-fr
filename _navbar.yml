@@ -4,9 +4,6 @@ type: inverse
 left:
   - text: "Brève présentation du jeu"
     href: ./aboutme.html
-    menu: 
-       - text: "Brève introduction à l'Espagne du XIVe siècle"
-         href: ./histintro.html
   - text: "Création des personnages"
     menu:
        - text: "Etape 1 - D'où venez-vous ? "
