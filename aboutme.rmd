@@ -1,15 +1,32 @@
 ---
-title: "Présentation du site"
+title: "Présentation du jeu"
 output: html_document
-date: "2022-09-02"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+
+
 ## Aquelarre
 
-Lorem Ipsum
 
+*Aquelarre* est un jeu de rôle médiéval fantastique démoniaque créé par Ricard Ibáñez en 1990.
+Aquelarre se déroule dans la péninsule ibérique au cours des 13e et 14e siècles du Moyen Âge. Vous incarnez des humains normaux qui doivent choisir entre vivre une vie ordinaire et légale, ou utiliser la magie interdite pour sortir de la misère. Près de la moitié du livre est consacrée aux démons et à la magie.
+Le cadre comprend plusieurs royaumes en conflit (Castille, Aragon, Portugal, Navarre et Grenade). Les joueurs doivent non seulement faire face aux guerres qui en résultent, mais aussi à la faim et aux maladies qui étaient endémiques dans le système féodal rigide. 
+
+### Quelques détails sur le système de jeu
+
+Aquelarre utilise une variante du système de jeu de rôle de base de Chaosium. Les caractéristiques de base et des compétences sont décidées par un jet de 1d100. 
+Pour réussir une tâche, le joueur doit lancer des dés de percentile égaux ou inférieurs au niveau de compétence pertinent du personnage, auquel l'arbitre peut ajouter des modificateurs situationnels.
+
+### La magie dans le monde d'Aquelarre : Un avertissement
+
+Bien que la magie soit utile et puisse aider les personnages à résoudre les tâches qui leur sont confiées, la plupart des habitants de l'univers d'*Aquelarre* considèrent la magie comme maléfique et démoniaque. 
+Cette tension entre l'utilisation de la magie par les personnages et la perception commune de la magie constitue la pièce maîtresse de ce jeu. 
+Le système de magie est complexe et, contrairement à de nombreux autres jeux de rôle, il est difficile de réussir un sort. 
+Les personnages doivent également apprendre à pratiquer les arts arcaniques en privé, de peur d'attirer l'attention de la secrète Fraternitas Vera Lucis (dans cet univers,, l'antécédent de l'Inquisition). 
+La peine encourue si l'on découvre qu'ils utilisent la magie est la mort immédiate. 
 
