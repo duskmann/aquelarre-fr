@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+
+body {
+    background-color:antiquewhite
+}
+p {
+    font-family: 'MedievalSharp', cursive;
+    font-size: 12px;
+    text-align: justify;
+}
+h1 {
+    font-family: 'MedievalSharp', cursive;
+    color:firebrick;
+    text-align: center;
+    font-size: 28px;
+}
+h2 {
+    font-family: 'MedievalSharp', cursive;
+    color:firebrick;
+    text-align: center;
+    font-size: 24px;
+}
+h3 {
+    font-family: 'MedievalSharp', cursive;
+    color:steelblue
+    text-align: left;
+    font-size: 20px;
+}
+h4 {
+    font-family: 'MedievalSharp', cursive;
+    color:steelblue
+    text-align: left;
+    font-size: 16px;
+}

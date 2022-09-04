@@ -16,7 +16,7 @@
 <script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -29,10 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
@@ -45,12 +44,23 @@
   ul.task-list{list-style: none;}
     </style>
 
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
 
 
 
 
 
 
+<link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
 
 
 
@@ -219,75 +229,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-.tocify-subheader {
-  display: inline;
-}
-.tocify-subheader .tocify-item {
-  font-size: 0.95em;
-}
-
-</style>
-
-
 
 </head>
 
@@ -295,16 +236,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -361,6 +292,7 @@ div.tocify {
 </div>
 
 
+<hr />
 <div id="aquelarre" class="section level2">
 <h2>Aquelarre</h2>
 <p><em>Aquelarre</em> est un jeu de rôle médiéval fantastique démoniaque
@@ -382,28 +314,128 @@ dés de percentile égaux ou inférieurs au niveau de compétence pertinent
 du personnage, auquel l’arbitre peut ajouter des modificateurs
 situationnels.</p>
 </div>
-<div id="la-magie-dans-le-monde-daquelarre-un-avertissement"
+<div id="un-avertissement-sur-le-système-de-magie-dans-aquelarre"
 class="section level3">
-<h3>La magie dans le monde d’Aquelarre : Un avertissement</h3>
+<h3>Un avertissement sur le système de Magie dans Aquelarre</h3>
 <p>Bien que la magie soit utile et puisse aider les personnages à
 résoudre les tâches qui leur sont confiées, la plupart des habitants de
 l’univers d’<em>Aquelarre</em> considèrent la magie comme maléfique et
 démoniaque. Cette tension entre l’utilisation de la magie par les
 personnages et la perception commune de la magie constitue la pièce
 maîtresse de ce jeu. Le système de magie est complexe et, contrairement
-à de nombreux autres jeux de rôle, il est difficile de réussir un sort.
-Les personnages doivent également apprendre à pratiquer les arts
+à de nombreux autres jeux de rôle, il est difficile de réussir un
+sort.</p>
+<p>Les personnages doivent également apprendre à pratiquer les arts
 arcaniques en privé, de peur d’attirer l’attention de la secrète
 Fraternitas Vera Lucis (dans cet univers,, l’antécédent de
-l’Inquisition). La peine encourue si l’on découvre qu’ils utilisent la
-magie est la mort immédiate.</p>
+l’Inquisition).</p>
+<p>La peine encourue pour l’utilisation de la magie est la torture,
+suivie de la mort.</p>
+</div>
+<div id="aquelarre-un-univers-médiévalo-démoniaque"
+class="section level3">
+<h3>Aquelarre : un univers médiévalo-démoniaque</h3>
+<p><em>Aquelarre</em> a été décrit à de nombreuses reprises, y compris
+par ses créateurs, comme un JdR “médiéval démoniaque”, non seulement
+parce qu’il ressemble à une fable, mais aussi parce que ces mots
+contiennent les deux principales caractéristiques du jeu qui se doivent
+d’être les plus marquantes.</p>
+<p>D’une part, nous avons le concept de “médiéval”, qui décrit
+quelquechose de réel et historique, une époque et un lieu ayant
+réellement existé: les royaumes de la péninsule ibérique du XIVe et XVe
+siècles. A première vue, cela peut sembler être un peu plus qu’un point
+dans l’espace temps, mais cette réalité historique imprègne les
+aventures dans Aquelarre. Et l’histoire dépasse souvent la fantaisie. Un
+bref coup d’oeil au chapitre 11 du MJ (non résumé sur ce site), et vous
+verrez des évènements historiques qui semblent tout droit sortis du
+registre de la fantasy: des rois qui exhument leurs proches et les
+couronnent, des belles-mères qui empoisonnent leurs beaux-enfants, des
+fous qui assassinent des califes en plein milieu de la prière matinale…
+En tant que MJ, mon mot d’ordre avec <em>Aquelarre</em> est celui
+d’Alexandre Dumas: <em>violer l’histoire, à condition de lui faire de
+beaux enfants.</em> (citation qui ne passe que très moyennement à l’âge
+de #MeToo… )</p>
+<p>L’autre terme mentionné est “démoniaque”, lié directement aux
+légendes et à la fantasy. Mais oubliez tout de suite les elfes des
+forêts et les nains barbus. Aquelarre traite les légendes comme elles
+étaient traitées à l’époque. La plupart des créatures décrites dans le
+bestiaire du livre (encore une fois non reproduits sur ce site)
+proviennent directement des chroniques des époques médiévales et
+modernes. L’histoire dépasse la fiction : vous ne verrez pas de kobolds,
+ni d’orques, ni de haut elfes, mais des duendes malicieux, vengeurs et
+arrogants, des démons implacables et cruels, des êtres de légende qui
+attendent, en se peignant les cheveux devant leur grotte, qu’un garçon
+du village apparaisse et, après une bonne baise, le dévorer d’un coup de
+dents. (oui oui, le garçon du village baise)</p>
+<p>Ce sont précisément les caractéristiques des légendes médiévales, ce
+goût du sexe illicite et de la mort qui, avec leurs contraire, la
+chasteté et la vie, peuplent les superstitions médiévales compilées dans
+<em>Aquelarre</em>. Elles ont étés modifiées et adaptées par les
+créateurs du jeu, mais ces thèmes et ces conflits forment le terreau de
+la mythologie médiévales et fournissent un terreau fertiles aux
+aventures dans <em>Aquelarre</em>.</p>
+</div>
+<div id="aquelarre-vs-dnd-une-conception-différente-du-médiéval-fantasy"
+class="section level3">
+<h3>Aquelarre vs DnD : une conception différente du
+médiéval-fantasy</h3>
+<p>En somme, l’univers d’<em>Aquelarre</em> n’est pas un univers
+“classique” de fantasy. Je voulais insister sur cette particularité,
+chers amis, car les similarités avec <em>DnD</em> s’arrêtent au fait que
+les deux jeux se déroulent dans un univers médiéval. <em>DnD</em> est
+construit sur un siècle de références aux classiques du genre littéraire
+de la fantasy et de l’aventure. Je ne pense pas devoir démontrer par A+B
+l’influence de Tolkien sur <em>DnD</em>. L’oeuvre de Tolkien s’inspire
+de la mythologie celtique et ouest-européenne, mais entre temps, en un
+siècle depuis sa mort, son interprétation de ces mythes est devenu un
+socle commun pour la plupart des oeuvres de fantasy modernes, qui en
+font une interprétation sensiblement différente aux fables et mythes
+d’origine.</p>
+<p>Par contraste, celui d’<em>Aquelarre</em> tire son inspiration
+directes des mythes et légendes du Moyen Âge tels qu’ils étaient perçus
+et compris par les habitants de cette époque. Il s’inspire également des
+vrais évènements et faits historiques du bas Moyen-Âge. C’est un monde
+ou la magie existe, mais beaucoup plus low-fantasy que DnD.</p>
+<p>Vous ne trouverez pas, sur les routes d’Aquelarre, des donjons
+peuplés de gobelins à chaque détour de chemin qu’il faudra tuer pour des
+points d’expérience. Vous ne trouverez pas non plus des fôrets hantées
+de créatures fantastiques - ces dernières sont rares, dangereuses, et
+cachées, et leur magie empreinte de mystère.</p>
+<hr />
+<p><em>Aquelarre</em> m’a tapé dans l’oeil car, à l’inverse d’autres
+jeux “médiévaux”, il tente d’immerser le joueur dans une atmosphère plus
+crue, plus réaliste (sans vouloir tomber dans l’excès du conformisme
+historique) et non idéalisé. Le noble de cet univers n’a pas besoin
+d’être typé “noble” - il peut être plus sale et plus grossier que le
+pire des serviteurs. Le prêtre du village peut être davantage intéressé
+par son pouvoir personnel que par le salut de ses paroissiens. Les
+basses gens vivent comme des citoyens secondaires, mais résignés à
+l’ordre social qu’ils occupent.</p>
+<p>Le monde d’<em>Aquelarre</em> est cruel et dangereux, un monde ou
+l’espérance de vie dépasse rarement les 40 ans, ou les pestes et famines
+sont légion, ou les maladies sont monnaie courantes et les morts
+précoces banales, ou les blessures s’infectent et condamnent les
+combattants les plus féroces à la tombe. Ce n’est pas un jeu de héros
+dans lequel les PJ sont le centre du monde, avec tout le reste gravitant
+autour de leurs personnes.</p>
+<p>Pour reprendre la comparaison avec DnD, les aventuriers de ce jeu
+sont aux marges de la société, se distinguant par leur physique
+exceptionnel et leur volonté de s’aventurer hors de la civilisation
+affronter des monstres. En somme, ils mènent une vie complètement hors
+normes et hors de portée de la plupart des habitants de Fâerun.</p>
+<p>Ici, les PJ font partie intégrante de la société dans laquelle ils
+évoluent, et sont censés se comporter en fonction de leur statut. Ce
+sont généralement des gens ordinaires, cherchant tout juste à gagner
+leur vie. Dans les éditions précédentes du jeu, il était clair au vu des
+dépenses mensuelles mandatées pour les PJ, que la majorité des PJ
+vivaient au dessus de leurs revenus. Ils n’ont besoin d’aucune excuse
+pour rechercher la gloire et la fortune, pour sortir et partir à
+l’aventure: ne pas mourir de faim est une motivation suffisante…</p>
 </div>
 </div>
 
 
 
-</div>
-</div>
 
 </div>
 
@@ -436,35 +468,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = false;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

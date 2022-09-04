@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-
+***
 
 ## Aquelarre
 
@@ -22,11 +22,45 @@ Le cadre comprend plusieurs royaumes en conflit (Castille, Aragon, Portugal, Nav
 Aquelarre utilise une variante du système de jeu de rôle de base de Chaosium. Les caractéristiques de base et des compétences sont décidées par un jet de 1d100. 
 Pour réussir une tâche, le joueur doit lancer des dés de percentile égaux ou inférieurs au niveau de compétence pertinent du personnage, auquel l'arbitre peut ajouter des modificateurs situationnels.
 
-### La magie dans le monde d'Aquelarre : Un avertissement
+### Un avertissement sur le système de Magie dans Aquelarre
 
 Bien que la magie soit utile et puisse aider les personnages à résoudre les tâches qui leur sont confiées, la plupart des habitants de l'univers d'*Aquelarre* considèrent la magie comme maléfique et démoniaque. 
 Cette tension entre l'utilisation de la magie par les personnages et la perception commune de la magie constitue la pièce maîtresse de ce jeu. 
 Le système de magie est complexe et, contrairement à de nombreux autres jeux de rôle, il est difficile de réussir un sort. 
+
 Les personnages doivent également apprendre à pratiquer les arts arcaniques en privé, de peur d'attirer l'attention de la secrète Fraternitas Vera Lucis (dans cet univers,, l'antécédent de l'Inquisition). 
-La peine encourue si l'on découvre qu'ils utilisent la magie est la mort immédiate. 
+
+La peine encourue pour l'utilisation de la magie est la torture, suivie de la mort.
+
+### Aquelarre : un univers médiévalo-démoniaque
+
+*Aquelarre* a été décrit à de nombreuses reprises, y compris par ses créateurs, comme un JdR "médiéval démoniaque", non seulement parce qu'il ressemble à une fable, mais aussi parce que ces mots contiennent les deux principales caractéristiques du jeu qui se doivent d'être les plus marquantes.
+
+D'une part, nous avons le concept de "médiéval", qui décrit quelquechose de réel et historique, une époque et un lieu ayant réellement existé: les royaumes de la péninsule ibérique du XIVe et XVe siècles. A première vue, cela peut sembler être un peu plus qu'un point dans l'espace temps, mais cette réalité historique imprègne les aventures dans Aquelarre. Et l'histoire dépasse souvent la fantaisie. Un bref coup d'oeil au chapitre 11 du MJ (non résumé sur ce site), et vous verrez des évènements historiques qui semblent tout droit sortis du registre de la fantasy: des rois qui exhument leurs proches et les couronnent, des belles-mères qui empoisonnent leurs beaux-enfants, des fous qui assassinent des califes en plein milieu de la prière matinale...
+En tant que MJ, mon mot d'ordre avec *Aquelarre* est celui d'Alexandre Dumas: *violer l'histoire, à condition de lui faire de beaux enfants.* (citation qui ne passe que très moyennement à l'âge de #MeToo... )
+
+L'autre terme mentionné est "démoniaque", lié directement aux légendes et à la fantasy. Mais oubliez tout de suite les elfes des forêts et les nains barbus. Aquelarre traite les légendes comme elles étaient traitées à l'époque. La plupart des créatures décrites dans le bestiaire du livre (encore une fois non reproduits sur ce site) proviennent directement des chroniques des époques médiévales et modernes. L'histoire dépasse la fiction : vous ne verrez pas de kobolds, ni d'orques, ni de haut elfes, mais des duendes malicieux, vengeurs et arrogants, des démons implacables et cruels, des êtres de légende qui attendent, en se peignant les cheveux devant leur grotte, qu'un garçon du village apparaisse et, après une bonne baise, le dévorer d'un coup de dents. (oui oui, le garçon du village baise) 
+
+Ce sont précisément les caractéristiques des légendes médiévales, ce goût du sexe illicite et de la mort qui, avec leurs contraire, la chasteté et la vie, peuplent les superstitions médiévales compilées dans *Aquelarre*. Elles ont étés modifiées et adaptées par les créateurs du jeu, mais ces thèmes et ces conflits forment le terreau de la mythologie médiévales et fournissent un terreau fertiles aux aventures dans *Aquelarre*.
+
+### Aquelarre vs DnD : une conception différente du médiéval-fantasy
+
+En somme, l'univers d'*Aquelarre* n'est pas un univers "classique" de fantasy. Je voulais insister sur cette particularité, chers amis, car les similarités avec *DnD* s'arrêtent au fait que les deux jeux se déroulent dans un univers médiéval. *DnD* est construit sur un siècle de références aux classiques du genre littéraire de la fantasy et de l'aventure. Je ne pense pas devoir démontrer par A+B l'influence de Tolkien sur *DnD*. L'oeuvre de Tolkien s'inspire de la mythologie celtique et ouest-européenne, mais entre temps, en un siècle depuis sa mort, son interprétation de ces mythes est devenu un socle commun pour la plupart des oeuvres de fantasy modernes, qui en font une interprétation sensiblement différente aux fables et mythes d'origine.
+
+Par contraste, celui d'*Aquelarre* tire son inspiration directes des mythes et légendes du Moyen Âge tels qu'ils étaient perçus et compris par les habitants de cette époque. Il s'inspire également des vrais évènements et faits historiques du bas Moyen-Âge. C'est un monde ou la magie existe, mais beaucoup plus low-fantasy que DnD.
+ 
+Vous ne trouverez pas, sur les routes d'Aquelarre, des donjons peuplés de gobelins à chaque détour de chemin qu'il faudra tuer pour des points d'expérience. Vous ne trouverez pas non plus des fôrets hantées de créatures fantastiques - ces dernières sont rares, dangereuses, et cachées, et leur magie empreinte de mystère.
+
+***
+
+*Aquelarre* m'a tapé dans l'oeil car, à l'inverse d'autres jeux "médiévaux", il tente d'immerser le joueur dans une atmosphère plus crue, plus réaliste (sans vouloir tomber dans l'excès du conformisme historique) et non idéalisé. Le noble de cet univers n'a pas besoin d'être typé "noble" - il peut être plus sale et plus grossier que le pire des serviteurs. Le prêtre du village peut être davantage intéressé par son pouvoir personnel que par le salut de ses paroissiens. Les basses gens vivent comme des citoyens secondaires, mais résignés à l'ordre social qu'ils occupent.
+
+Le monde d'*Aquelarre* est cruel et dangereux, un monde ou l'espérance de vie dépasse rarement les 40 ans, ou les pestes et famines sont légion, ou les maladies sont monnaie courantes et les morts précoces banales, ou les blessures s'infectent et condamnent les combattants les plus féroces à la tombe. Ce n'est pas un jeu de héros dans lequel les PJ sont le centre du monde, avec tout le reste gravitant autour de leurs personnes. 
+ 
+Pour reprendre la comparaison avec DnD, les aventuriers de ce jeu sont aux marges de la société, se distinguant par leur physique exceptionnel et leur volonté de s'aventurer hors de la civilisation affronter des monstres. En somme, ils mènent une vie complètement hors normes et hors de portée de la plupart des habitants de Fâerun.
+
+Ici, les PJ font partie intégrante de la société dans laquelle ils évoluent, et sont censés se comporter en fonction de leur statut. Ce sont généralement des gens ordinaires, cherchant tout juste à gagner leur vie. Dans les éditions précédentes du jeu, il était clair au vu des dépenses mensuelles mandatées pour les PJ, que la majorité des PJ vivaient au dessus de leurs revenus. Ils n'ont besoin d'aucune excuse pour rechercher la gloire et la fortune, pour sortir et partir à l'aventure: ne pas mourir de faim est une motivation suffisante...
+
+
+ 
 
