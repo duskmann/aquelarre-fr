@@ -19,7 +19,7 @@ dernier vestige de 800 ans de civilisation. Ils finiront par succomber aux attaq
 
 ***
 
-## Etape 1: D'ou venez-vous ? - Page 27
+## Etape I : D'ou venez-vous ? - Page 27
 
 
 La première étape de la création de personnage est de choisir votre royaume d'origine. Celui-ci déterminera la langue que vous parlez, votre culture et votre religion.
@@ -74,5 +74,208 @@ Si votre personnage vient du royaume de Navarre, vous avez le choix entre les co
 
 ### Royaume du Portugal
 
-Il y a deux siècles, le comte du Portugal s'est érigé en royaume, contrôlant la partie ouest de la péninsule. Au XIVe siècle, elle est une alliée solide de la Castille. Les priorités du roi du Portugal sont de mettre fin aux veilleités autonomistes des nobles de son royaume et
+Il y a deux siècles, le comte du Portugal s'est érigé en royaume, contrôlant la partie ouest de la péninsule. Au XIVe siècle, elle est une alliée solide de la Castille. Les priorités du roi du Portugal sont de mettre fin aux veilleités autonomistes des nobles et
 faire prospérer son petit royaume. Peut-être que l'expansion outre-mer aiderait le Portugal à se faire sa place dans le bal des nations...
+
+**- Portugais**
+
+**- Juif**
+
+**- Mudejar**
+
+### Royaume de Grenade
+
+Le royaume de Grenade est relativement jeune, ayant été fondé il y a un peu plus d'un siècle par l'émir Ibn Al-Ahmar. Pourtant, c'est le dernier survivant d'une époque passée, celle de 700 ans de domination de la péninsule ibérique par les musulmans andalous. 
+Le royaume doit sa survie à ses alliances avec les puissants royaumes du Maghreb et les tributs réguliers qu'il paie à la Castille. Malgré cela, la région frontalière entre la Grenade et la Castille est une zone de raids et de conflits fréquents.
+
+**- Arab**
+
+**- Juif**
+
+**- Mozarabe**
+
+## Etape II : Qui êtes-vous ? - Page 29
+
+Outre les divisions territoriales que nous avons vues dans la section précédente, la population des différents royaumes péninsulaires est divisée en plusieurs groupes ethniques ou races. Maintenant que vous connaissez le royaume où votre personnage est né, le moment est venu de décider à quel peuple appartient son héritage.
+Vous trouverez ci-dessous une description de chacun des peuples de l'Espagne médiévale, et la société à laquelle il appartient - chrétienne, islamique ou juive (ce qui est très important pour découvrir la classe du personnage), 
+les éventuelles restrictions professionnelles, et les langues connues par ce peuple.
+
+***
+
+### Arabe
+
+Par commodité, nous utilisons le mot "arabe" pour désigner les habitants musulmans du Royaume de Grenade, bien que la population soit composée principalement de Nasrides, 
+c'est-à-dire d'Arabes andalous issus de l'ancien royaume d'al-Andalus il y a 500 ans, ainsi que de Berbères du Maghreb, de Ghulams turcs et d'Africains des royaumes du 
+Ghana, du Mali et du Songhay, en plus des véritables Arabes de la péninsule arabique. 
+Le groupe dont est issu un personnage n'a aucune importance dans ces règles, le joueur est donc libre de choisir une ethnie ou une autre.
+
+***Société:*** Islamique
+
+***Restrictions:*** Aucune
+
+***Langues:*** Andalouse (100%) ; Arabe (CULx4 %) ; Castillan (CULx4 %)
+
+***
+
+### Aragonais
+
+Les Aragonais sont les habitants chrétiens du royaume d'Aragon. Ce sont les descendants des paysans pyrénéens qui ont repeuplé la région reconquise des musulmans au XIIe siècle. Ils 
+parlent leur propre langue, l'Aragonais, qui se meurt toutefois à petit feu depuis l'ascension d'une dynastie castillane sur le trône d'Aragon.
+
+***Société:*** Chrétienne
+
+***Restrictions:*** Ne peuvent pas faire partie de la classe des *Esclaves* 
+
+***Langues:*** Aragonais (100%) ; Castillan (CULx4 %)
+
+***
+
+### Astur-léonais
+
+Les Astur-léonais habitent les territoires de l'ancien royaume de Léon, sur la côte Nord de la péninsule. 
+Ils sont les descendants des anciennes familles wisigoths qui se sont installées là à la chute de l'empire romain il y a 1000 ans. 
+Ils diffèrent peu des castillans, mis à part qu'ils parlent leur propre langue.
+
+***Société:*** Chrétienne
+
+***Restrictions:*** Ne peuvent pas faire partie de la classe des *Esclaves*
+
+***Langues:*** Astur-léonais (100%) ; Castillan (CULx4 %)
+
+***
+
+### Basque
+
+Les habitants des régions rurales du nord de la Couronne de Castille - la seigneurie de Guipúzcoa
+et le royaume de Navarre - sont célèbres pour leur férocité et leur courage au combat.
+En plus d'une langue exclusive, l'euskara, les Basques possèdent leur culture propre, fondée sur 
+d'anciens mythes pré-romains et des rites païens presque oubliés, une culture que l'Eglise vise 
+à convertir aux symboles cérémonies chrétiennes.
+
+***Société:*** Chrétienne
+
+***Restrictions:*** Ne peuvent appartenir qu'à la classe des *Citadins* et *Paysans*.
+
+***Langues:*** Euskara (100%) ; Castillan (CULx4 %)
+
+***
+
+### Castillan
+
+Les habitants chrétiens du Royaume de Castille. Grâce à la politique continue de repeuplement des rois castillans, 
+c'estle peuple le plus peuplé de la péninsule ibérique, et ils ont réussi à imposé le castillan comme langue commune 
+dans tous les royaumes de la péninsule.
+
+***Société:*** Chrétienne
+
+***Restrictions:*** Ne peuvent pas faire partie de la classe des *Esclaves*
+
+***Langues:*** Castillan (100%)
+
+***
+
+### Catalan
+
+Les habitants chrétiens de la Principauté de Catalogne, du Royaume de Valence et des Baléares, maintenant intégrés au sein de la 
+couronne d'Aragon. Ils partagent une langue commune, le Catalan, avec toutefois des dialectes selon les régions.
+
+***Société:*** Chrétienne
+
+***Restrictions:*** Ne peuvent pas faire partie de la classe des *Esclaves*
+
+***Langues:*** Catalan (100%) ; Castillan (CULx4 %)
+
+***
+
+### Galicien
+
+Les habitants de l'ancien royaume de Galice, à l'extrémité nord-ouest de l'Espagne.
+Les nombreux forts en ruine un peu partout en Galice témoignent de leur fière ascendance: les tribus celtiques qui habitent la région depuis plus de 2000 ans.
+
+***Société:*** Chrétienne
+
+***Restrictions:*** Ne peuvent pas faire partie de la classe des *Esclaves*
+
+***Langues:*** Galicien (100%) ; Castillan (CULx4 %)
+
+***
+
+### Juif
+
+Le peuple juif -ou sépharade, si l'on veut être plus précis - est largement répandu dans la péninsule ibérique.
+Les ghettos juifs (appelés *calls* en Aragon) se trouvent dans la plupart des villes des cinq royaumes.
+Les juifs y fréquentent leurs synagogues et pratiquent leurs rites et leurs coutumes, mais la protection qui leur a été accordée
+au cours des siècles précédents n'est plus assurée.
+
+Les massacres et les conversions forcées dans les ghettos sont de plus en plus courants. Cette montée de l'intolérance se terminera par l'explusion 
+des juifs des royaumes de Castille et d'Aragon en 1492.
+
+***Société:*** Juif
+
+***Restrictions:*** Aucune
+
+***Langues:*** Judéo-espagnol (100%) ; Hébreu (CULx2 %) ; Castillan (CULx4 %)
+
+***
+
+### Mozarabe
+
+Les chrétiens qui habitent le royaume de Grenade sont appelés Mozarabs. Ce terme vient de l'arabe "*musta'rab*", que l'on peut traduire par "*arabisé*".
+En échange du paiement de taxes supplémentaires et de l'acceptation d'une classe sociale inférieure, 
+ils sont autorisés par le Sultan à garder leurs coutumes et leurs rites, mais avec des restrictions sévères.
+Ils parlent leur propre langue, le mozarabe, construite à partir de divers langues latines et qui s'écrit, contrairement aux autres langues 
+chrétiennes, avec l'alphabet arabe.
+
+***Société:*** Islamique
+
+***Restrictions:*** Ne peuvent pas faire partie de la noblesse. Les métiers suivants leur sont interdits: *Soldat*, *Derviche*, et *Ghazi*. Ils peuvent 
+néansmoins devenir *Prêtre* ou *Moine* comme tout autre membre de sociétés chrétiennes.
+
+***Langues:*** Mozarab (100%) ; Andalouse (CULx4 %) ; Arabe (CULx2 %) ; Castillan (CULx4 %)
+
+***
+
+### Mudejar
+
+Le cas inverse. Les musulmans qui vivent dans les royaumes chrétiens sont appelés Mudejars. Ce terme, issue de l'arabe "*mudaggan*" (trad. "domestiqué"), illustre
+bien l'estime qu'ils ont parmi les habitants de Grenade. Il existe des communautés mudéjares dans la Couronne de Castille (installées dans les vallées du Guadalquivir et du Guadiana), 
+en Aragon (surtout dans le royaume de Valence), et dans le royaume du Portugal (ou ils sont nombreux au sud du pays).
+Ils habitent dans des quartiers spécifiques au sein des villes (appelés *aljamas* ou *morerias*), ou ils bénéficient de la liberté de continuer à pratiquer leur culte, leur langue, et leurs coutumes.
+Toutefois, comme pour les Juifs, l'intolérance religieuse est en hausse et leur droits ne sont plus garantis pour très longtemps.
+
+***Société:*** Chrétienne
+
+***Restrictions:*** Ne peuvent pas faire partie de la noblesse. Les métiers de *Soldat*, *Alguacil* leurs sont interdits, ainsi que toute profession eclésiastique chrétienne (*Clerc, Moine, Prêtre* et *Goliardo*)
+
+***Langues:*** Andalouse (100%) ; Castillan (CULx4 %). 
+
+***Langues additionnelles:*** Si nés en Aragon : Aragonais (CULx4 %) ; Si nés au Portugal : Portugais (CULx4 %)
+
+***
+
+### Navarrais
+
+Les habitants chrétiens du royaume de Navarre, au nord-est de la péninsule. Le nord du royaume de Navarre est principalement
+peuplé de Basques, les Navarrois étant majoritaires au Sud du pays. Ils descendent des Aragonais et des Castillans, avec qui ils partagent 
+leur langue et une bonne partie de leur histoire.
+
+***Société:*** Chrétienne
+
+***Restrictions:*** Ne peuvent pas faire partie de la classe des *Esclaves*
+
+***Langues:*** Castillan (100%) ; Aragonais (CULx4 %)
+
+***
+
+### Portugais
+
+Les habitants chrétiens du royaume du Portugal, descendants des peuples léonais et celtes qui ont repeuplés les territoires repris aux musulmans il y a deux siècles.
+Ils partagent, à peu de choses près, une langue commune avec les Galiciens qui vivent au nord de la Castille.
+
+***Société:*** Chrétienne
+
+***Restrictions:*** Ne peuvent pas faire partie de la classe des *Esclaves*
+
+***Langues:*** Galicien (100%) ; Castillan (CULx4 %)
+
+

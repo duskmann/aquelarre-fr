@@ -4,6 +4,8 @@ type: inverse
 left:
   - text: "Brève présentation du jeu"
     href: ./aboutme.html
+  - text: "Compétences et caractéristiques"
+    href: ./competences.html
   - text: "Création des personnages"
     menu:
        - text: "Etape 1 - D'où venez-vous ? "

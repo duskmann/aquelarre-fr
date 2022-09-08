@@ -1,0 +1,59 @@
+---
+title: "Caractéristiques et Compétences"
+output: html_document
+date: "2022-09-04"
+---
+
+***
+
+## Les 7 caractéristiques de Base
+
+
+#### Force (FOR) 
+
+Une mesure de la force brute et de la capacité musculaire du personnage. Plus il est élevé, plus il peut porter, soulever ou lancer de poids, 
+plus il a de puissance dans les bras, les jambes et les mains, et plus il est difficile de le mettre à terre.
+Effectuez un jet de Force pour enfoncer une porte, retenir une personne, soulever un chariot ou supporter une charge.
+Cette caractéristique affecte directement l'utilisation des compétences permettant de manier de grandes armes, comme les épées longues ou les haches.
+
+#### Agilité (AGI)
+
+L'Agilité détermine l'agilité et la coordination musculaire d'un personnage, sa vitesse, la rapidité de ses mouvements, la souplesse de son corps et 
+la légèreté de sa démarche.  Faites un jet d'Agilité pour accomplir toute sorte d'acrobaties, pour saisir un objet rapidement, pour éviter d'être frappé 
+par un objet qui tombe, ou pour traverser un pont étroit. 
+C'est la caractéristique de base pour les compétences telles que Courir, Esquiver, Sauter, et Furtivité.
+
+#### Dextérité (DEX)
+
+La Dextérité représente la coordination manuelle d'un personnage, sa facilité d'effectuer des actions nécéssitant de la coordination manuelle. 
+Faites un jet de Dextérité pour effectuer des tâches manuelles délicates, nettoyer les engrenages d'une arbalète, façonner une figure en pierre ou en bois 
+ou pour porter un plateau rempli de nourriture et de boissons. 
+Par conséquent, la Dextérité est la caractéristique principale pour bon nombre de compétences, de l'épée à la guérison, en passant par le Soin et le Crochetage de 
+serrure.
+
+#### Vitalité (VIT)
+
+La Vitalité représente la santé physique du personnage, sa résistance aux maladies, poisons, et attaques, ainsi que la quantité de dégâts qu'il peut encaisser 
+avant de perdre connaissance ou de mourir. 
+Faites un jet de vitalité pour faire une nuit blanche, vous retenir de tomber dans les pommes ou participer à une beuverie dans une taverne. 
+Cette caractéristique n'est liée à aucune compétence, mais elle détermine directement les PV du personnage.
+
+#### Perception (PER)
+
+Une mesure de la quantité d'informations recueillies par les sens d'un personnage (vision, toucher, goût, ouïe et odorat), et sa conscience du monde qui l'entoure. 
+Bien qu'il y ait peu d'occasions de faire un jet de perception au lieu d'un jet d'une des compétences associées, des situations spécifiques peuvent se présenter 
+pour son utilisation, comme se déplacer dans le noir pour trouver la sortie d'une pièce, ou sentir une légère baisse de la température d'une habitation.
+
+#### Communication (COM)
+
+Une mesure de la capacité d'un personnage à s'exprimer, sa désinvolture, son aisance, sa capacité à se faire entendre, à convaincre ses interlocuteurs, 
+la confiance que le personnage ressent dans ses relations avec son entourage. 
+Toutes les compétences qui impliquent un échange d'information sont basées sur cette caractéristique - comme le commerce, l'éloquence, ou les langues.
+
+#### Culture (CUL)
+
+Cette caractéristique représente les connaissances générales qu'un personnage a acquises au cours de sa vie, qu'il s'agisse d'une vie consacrée à l'étude, 
+de choses apprises en travaillant, ou simplement en écoutant les histoires des personnes plus âgées. 
+Toutes les compétences qui se basent sur la connaissance - savoir magique, savoir naturel, alchimie, légendes, etc - dépendent de la Culture. 
+Faites un jet direct de Culture pour déterminer si notre personnage est capable de se souvenir des détails d'événements historiques : 
+le couronnement d'un roi ou la date d'une bataille importante, de reconnaître les personnages importants d'un royaume, ou de s'orienter dans un château en se basant sur la disposition typique de ce type de construction
